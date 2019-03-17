@@ -1,0 +1,47 @@
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/Seamfix-Pc/AppData/Local/Temp/sbt-structure.xml; session clear-all
+run
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/Seamfix-Pc/AppData/Local/Temp/sbt-structure.xml; session clear-all
+run
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/Seamfix-Pc/AppData/Local/Temp/sbt-structure.xml; session clear-all
+run
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/Seamfix-Pc/AppData/Local/Temp/sbt-structure.xml; session clear-all
+run
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/Seamfix-Pc/AppData/Local/Temp/sbt-structure.xml; session clear-all
+run
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/Seamfix-Pc/AppData/Local/Temp/sbt-structure.xml; session clear-all
+run
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/Seamfix-Pc/AppData/Local/Temp/sbt-structure.xml; session clear-all
+console
+configmongo
+console
+run
+console
+import db.MongoDatabaseHelper._
+:q
+console
+:console
+console
+import db.MongoDatabaseHelper._
+console
+run
+console
+run
+console
+run
+:console
+console
+reload
+console
+run
+console
+cond
+console
+run
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/Seamfix-Pc/AppData/Local/Temp/sbt-structure.xml; session clear-all
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/Seamfix-Pc/AppData/Local/Temp/sbt-structure1.xml; session clear-all
+test:testOnly *TweetScraperTestSuit.scala
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/Seamfix-Pc/AppData/Local/Temp/sbt-structure1.xml; session clear-all
+test:testOnly *TweetScraperTestSuit.scala
+test:testOnly *TweetScraperTestSuit
+all {file:/C:/Users/Seamfix-Pc/IdeaProjects/scalatweet/}root/products {file:/C:/Users/Seamfix-Pc/IdeaProjects/scalatweet/}root/test:products
+console

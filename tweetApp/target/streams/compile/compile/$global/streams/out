@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Seamfix-Pc\IdeaProjects\scalatweet\src\main\scala\tweetclient\TwitterClientHelper.scala:58:20: object insertOne is not a member of package collection[0m
+[0m[[0m[31merror[0m] [0m[0m        collection.insertOne(basicdbobject)[0m
+[0m[[0m[31merror[0m] [0m[0m                   ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

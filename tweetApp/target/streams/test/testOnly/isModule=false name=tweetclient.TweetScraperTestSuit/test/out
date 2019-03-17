@@ -1,0 +1,4 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTweetScraperTestSuit:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTwitter Scraper[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should Assert that configuration is okay[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should Should return a json of search query[0m[0m
